@@ -1,5 +1,5 @@
 import streamlit as st
-import jotlib
+import joblib
 
 
 def main():
