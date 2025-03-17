@@ -2,10 +2,12 @@ import streamlit as st
 import jotlib
 
 
-dev main():
+def main():
   st.title('Dermatology Machine Learning')
-  
   st.info('This app uses machine learning')
 
-if __name__ as "__main__":
+  #input data by user
+  erythema = st.slider('Erythema', min_value=0, max_value = 3, value=2
+
+if __name__ == "__main__":
   main()
