@@ -4,6 +4,7 @@ import joblib
 
 def main():
   st.title('Dermatology Machine Learning')
+  
   st.info('This app uses machine learning')
 
   #input data by user
