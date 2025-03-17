@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# Dermatology ML Project 
 ```
-⬆️ (Replace above with your app's name)
+Dermatology ML Project
 ```
 
-Description of the app ...
+Dermatology Classification using ML
 
 ## Demo App
 
