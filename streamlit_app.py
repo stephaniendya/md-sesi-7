@@ -7,4 +7,5 @@ dev main():
   
   st.info('This app uses machine learning')
 
-if __name__ as "__main__
+if __name__ as "__main__":
+  main()
