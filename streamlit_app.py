@@ -1,5 +1,10 @@
 import streamlit as st
+import jotlib
 
-st.title('Dermatology Machine Learning')
 
-st.info('This app uses machine learning')
+dev main():
+  st.title('Dermatology Machine Learning')
+  
+  st.info('This app uses machine learning')
+
+if __name__ as "__main__
